@@ -1,15 +1,18 @@
 body{
     margin: 0;
     padding: 0;
-    font-family: 'Osward', sans-serif;
+    font-family: 'Oswald', sans-serif;
 }
+
+/*Nav*/
+
 
 nav ul{
     list-style: none;
     background-color: #4a4a4f;
     text-align: center;
-    margin: 0;
-    padding: 0;
+    padding: 0%;
+    margin: 0%;
 }
 
 nav li{
@@ -17,7 +20,7 @@ nav li{
     line-height: 40px;
     height: 40px;
     display: inline-block;
-    margin: 2.5%;
+    margin-left: 2.5%;
 }
 
 nav a{
